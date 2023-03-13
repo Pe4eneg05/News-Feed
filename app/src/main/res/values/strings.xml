@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <string name="text_item_author">Article author:</string>
+</resources>
